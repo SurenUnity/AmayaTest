@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97042b0535843299e4908ebc36ab68e, type: 3}
+  m_Name: CharacterLetter
+  m_EditorClassIdentifier: 
+  characterLetters:
+  - letterType: 0
+    letterSprite: {fileID: -4152440001338899516, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 1
+    letterSprite: {fileID: 1546397343732199312, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 2
+    letterSprite: {fileID: -3091886125360362794, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 3
+    letterSprite: {fileID: 7658762868499757632, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 4
+    letterSprite: {fileID: 3989838567292536421, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 5
+    letterSprite: {fileID: -2567739784832846027, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 6
+    letterSprite: {fileID: 4715454739249114016, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 7
+    letterSprite: {fileID: 3912210995915998985, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 8
+    letterSprite: {fileID: -3541686595128163680, guid: 3a1f8c7f7301de04b880143d5d1a76d3, type: 3}
+  - letterType: 9
+    letterSprite: {fileID: -4022892432282099640, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 10
+    letterSprite: {fileID: 984671043626282402, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 11
+    letterSprite: {fileID: -4516125215375383245, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 12
+    letterSprite: {fileID: -5004353429427080310, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 13
+    letterSprite: {fileID: 6048904673295045952, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 14
+    letterSprite: {fileID: 6243359843887837518, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 15
+    letterSprite: {fileID: 7165981559815552339, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 16
+    letterSprite: {fileID: 7343646890527703155, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 17
+    letterSprite: {fileID: -4665809521000709242, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 18
+    letterSprite: {fileID: -1824351160599533330, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 19
+    letterSprite: {fileID: -2504328290982729884, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 20
+    letterSprite: {fileID: 87617567377264067, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 21
+    letterSprite: {fileID: -8427006594125346899, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 22
+    letterSprite: {fileID: -2814326889073588984, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 23
+    letterSprite: {fileID: 1536005741533832286, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 24
+    letterSprite: {fileID: -2656530620286714061, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
+  - letterType: 25
+    letterSprite: {fileID: -3843956387527753574, guid: db4239e268fdd2140a6714c8f015b945, type: 3}
